@@ -49,11 +49,6 @@ Open it on Google Chrome with port3000
 
 
 
-## Credits
-
-This software uses the following open source packages:
-
-- [Node.js](https://nodejs.org/)
 
 ## Related
 
